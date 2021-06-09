@@ -1,1 +1,1 @@
-# this script prints the bsolute path of the current working directory
+Showing current pathway of the working directory
