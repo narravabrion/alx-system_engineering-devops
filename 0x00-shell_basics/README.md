@@ -1,1 +1,0 @@
-Showing current pathway of the working directory
